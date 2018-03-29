@@ -1,4 +1,3 @@
-1 
 index.php 	入口文件
 command   	命令文件
 config    	配置文件
